@@ -22,7 +22,6 @@
   </a>
 </p>
 
-
 Robotics Engineer with technical field experience in Mechatronics, Automation, and AI. Skilled in collaborating with cross-functional teams to take concepts from ideation to production, ensuring compliance with industry standards to deliver high-quality solutions in fast-paced environments.
 
 **I develop novel robotics and intelligent automation solutions for timeless human challenges**
@@ -64,4 +63,4 @@ Robotics Engineer with technical field experience in Mechatronics, Automation, a
 </div>
 
 ---
-:zap: To generate a `README.md` file like this for your github profile, checkout [Github Profile Generator](https://github.com/mkazemie/github-profile-generator).
+:zap: To generate a `README.md` file like this for your github profile, checkout [Github Profile Generator](https://gitprofilegenerator.streamlit.app/).
