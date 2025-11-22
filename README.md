@@ -58,7 +58,7 @@ Robotics Engineer with technical field experience in Mechatronics, Automation, a
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
 
 <div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkazemie&show_icons=true&locale=en&layout=compact&count_private=true" alt="mkazemie" />
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkazemie&show_icons=true&locale=en&layout=compact&count_private=true&token=${{ secrets.PAT_1 }}" alt="mkazemie" />
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=mkazemie&" alt="mkazemie" />
 </div>
 
